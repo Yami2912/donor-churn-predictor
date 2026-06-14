@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-Non-Governmental Organizations like rely heavily on recurring donors to sustain their social impact. A critical challenge is identifying which donors are likely to stop contributing — commonly known as **"donor churn."**
+Non-Governmental Organizations rely heavily on recurring donors to sustain their social impact. A critical challenge is identifying which donors are likely to stop contributing — commonly known as **"donor churn."**
 
 This project builds a complete **Machine Learning pipeline** that:
 - Predicts whether a donor will churn based on their behavior
