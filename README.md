@@ -177,4 +177,23 @@ pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn imbalanced
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🎯 Key Takeaways
+
+- Donor churn prediction is a **high-ROI application** of ML for NGOs
+- **XGBoost with SMOTE** is the recommended model for production use
+- The **first 6 months** of a donor's journey are the most critical retention window
+- **Recurring small donors** are more loyal than large one-time contributors
+- Personalized communication significantly reduces churn risk
+
+---
+
+## 👤 Author
+
+**Yami Jitendra Patel**
+
+
+---
+
+*This project was built as part of the NayePankh Foundation internship selection assignment. The ML approach demonstrated here can be directly applied to real NGO donor management systems to improve fundraising sustainability.*
